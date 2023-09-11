@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srinivasanvarun
-- 👀 I’m interested in App development on Backend and DevOps.
+- 👀 My interests are in Backend Web development and DevOps.
 - 🌱 I’m currently learning cloud tools on AWS.
 - 📫 How to reach me
   - https://linkedin.com/in/srinivasanvarun
